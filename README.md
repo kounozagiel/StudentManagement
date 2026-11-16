@@ -38,4 +38,4 @@ Each function executes the appropriate SQL statement through the PostgreSQL conn
 
 A video demonstration showing the database setup and execution of all four CRUD functions is available at the following link:
 
-[Insert video link here]
+https://youtu.be/2IZoH0hcg4c
